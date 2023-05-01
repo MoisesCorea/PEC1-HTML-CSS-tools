@@ -65,7 +65,7 @@ header {
   gap: .5rem;
   padding-top: 2rem;
   display: flex;
-  box-shadow: 0 15px 10px -10px #2f2f2f1a;
+  box-shadow: 0 9px 10px -10px #2f2f2f1a;
 }
 
 #logo img {
