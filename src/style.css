@@ -430,7 +430,8 @@ dd {
   }
 
   .pages {
-    background-image: url(images/fondo.jpg);
+    /*background-image: url(images/imagen1.jpg);*/
+    background-color: rgb(245, 245, 245);
   }
 
   /*--------------------------Presentación__________*/
