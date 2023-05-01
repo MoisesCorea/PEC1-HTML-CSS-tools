@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const button = document.getElementById('buttonPortada');
+  const button = document.getElementById('buttonPortada')
   button.addEventListener('click', () => {
-    window.location.href = 'sitios.html';
-  });
-});
+    window.location.href = 'sitios.html'
+  })
+})
